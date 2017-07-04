@@ -1,4 +1,4 @@
 git status  —- shows the changes
 git add *   —- will add the files
-git commit —-  staging
+git commit -m “some message here” —-  staging
 git push origin master —- puts in to central repository
